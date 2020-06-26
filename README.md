@@ -30,7 +30,7 @@ Comments should be clear enough to allow you to follow what's going on.
 
 STEP 1 - paint_cylindrical_UVs (run from command line)
 
-First, some code is included to paint cylindrical UV maps from noisy stereo images, a set of UV coords for the new UV map, original stereo images, and camera calibration matrics for these images (from the cameras).
+First, some code is included to paint cylindrical UV maps from noisy stereo images, a set of UV coords for the new UV map, original stereo images, and camera calibration matrices for these images (from the cameras).
 
 There is also a Batch file that calls a C++ .exe for smoothing the obj files (but you don't need to run that unless you want to smooth the objs further - this has already been done). The C++ is modified from something akin to a 3D Bilateral Filter.
 
