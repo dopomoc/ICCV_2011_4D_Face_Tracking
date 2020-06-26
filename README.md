@@ -5,7 +5,7 @@ IEEE International Conference on Computer Vision (ICCV), 2296-2303, 2011.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % ICCV 2011 Paper Demo. Darren Cosker, University of Bath. 
-% This demo Packaged together in 2012.
+% This demo (was originally) packaged together in 2012 (though not widely distributed).
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 This demo goes from raw unaligned OBJ and RGB image files to OBJ files with a regular mesh
